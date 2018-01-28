@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 99aecc667d7fc3a4ba3b7b11bc382ffd
+timeCreated: 1517033005
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: SM_ABCBlocks
+    100002: SM_AlarmClock
+    100004: SM_Ball
+    100006: SM_Bed
+    100008: SM_BedsideTable
+    100010: SM_Book1
+    100012: SM_Book10
+    100014: SM_Book11
+    100016: SM_Book12
+    100018: SM_Book13
+    100020: SM_Book2
+    100022: SM_Book3
+    100024: SM_Book4
+    100026: SM_Book5
+    100028: SM_Book6
+    100030: SM_Book7
+    100032: SM_Book8
+    100034: SM_Book9
+    100036: SM_Bookshelf
+    100038: SM_Cupboard
+    100040: SM_Door
+    100042: //RootNode
+    100044: SM_Glass3
+    100046: SM_Lamp
+    100048: SM_Poster
+    100050: SM_StoryBook
+    400000: SM_ABCBlocks
+    400002: SM_AlarmClock
+    400004: SM_Ball
+    400006: SM_Bed
+    400008: SM_BedsideTable
+    400010: SM_Book1
+    400012: SM_Book10
+    400014: SM_Book11
+    400016: SM_Book12
+    400018: SM_Book13
+    400020: SM_Book2
+    400022: SM_Book3
+    400024: SM_Book4
+    400026: SM_Book5
+    400028: SM_Book6
+    400030: SM_Book7
+    400032: SM_Book8
+    400034: SM_Book9
+    400036: SM_Bookshelf
+    400038: SM_Cupboard
+    400040: SM_Door
+    400042: //RootNode
+    400044: SM_Glass3
+    400046: SM_Lamp
+    400048: SM_Poster
+    400050: SM_StoryBook
+    2100000: M_Door
+    2100002: initialShadingGroup1
+    2100004: M_SoccerBall1
+    2100006: initialShadingGroup2
+    2100008: M_Cupboard
+    2100010: M_Bed
+    2100012: M_BedsideTable
+    2100014: M_Lamp
+    2100016: M_Bookshelf
+    2100018: M_Book1
+    2100020: Material.002
+    2100022: Material.001
+    2100024: M_AlarmClock
+    2100026: M_StoryBook
+    2100028: phong1
+    2100030: M_Window
+    2100032: M_Curtain
+    2300000: SM_ABCBlocks
+    2300002: SM_AlarmClock
+    2300004: SM_Ball
+    2300006: SM_Bed
+    2300008: SM_BedsideTable
+    2300010: SM_Book1
+    2300012: SM_Book10
+    2300014: SM_Book11
+    2300016: SM_Book12
+    2300018: SM_Book13
+    2300020: SM_Book2
+    2300022: SM_Book3
+    2300024: SM_Book4
+    2300026: SM_Book5
+    2300028: SM_Book6
+    2300030: SM_Book7
+    2300032: SM_Book8
+    2300034: SM_Book9
+    2300036: SM_Bookshelf
+    2300038: SM_Cupboard
+    2300040: SM_Door
+    2300042: SM_Glass3
+    2300044: SM_Lamp
+    2300046: SM_Poster
+    2300048: SM_StoryBook
+    3300000: SM_ABCBlocks
+    3300002: SM_AlarmClock
+    3300004: SM_Ball
+    3300006: SM_Bed
+    3300008: SM_BedsideTable
+    3300010: SM_Book1
+    3300012: SM_Book10
+    3300014: SM_Book11
+    3300016: SM_Book12
+    3300018: SM_Book13
+    3300020: SM_Book2
+    3300022: SM_Book3
+    3300024: SM_Book4
+    3300026: SM_Book5
+    3300028: SM_Book6
+    3300030: SM_Book7
+    3300032: SM_Book8
+    3300034: SM_Book9
+    3300036: SM_Bookshelf
+    3300038: SM_Cupboard
+    3300040: SM_Door
+    3300042: SM_Glass3
+    3300044: SM_Lamp
+    3300046: SM_Poster
+    3300048: SM_StoryBook
+    4300000: SM_Door
+    4300002: SM_ABCBlocks
+    4300004: SM_Ball
+    4300006: SM_Poster
+    4300008: SM_Cupboard
+    4300010: SM_Bed
+    4300012: SM_BedsideTable
+    4300014: SM_Lamp
+    4300016: SM_Bookshelf
+    4300018: SM_Book1
+    4300020: SM_Book2
+    4300022: SM_Book3
+    4300024: SM_Book4
+    4300026: SM_Book5
+    4300028: SM_Book6
+    4300030: SM_Book7
+    4300032: SM_Book8
+    4300034: SM_Book9
+    4300036: SM_Book10
+    4300038: SM_Book11
+    4300040: SM_Book12
+    4300042: SM_Book13
+    4300044: SM_AlarmClock
+    4300046: SM_StoryBook
+    4300048: SM_Glass3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 8
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
